@@ -369,7 +369,7 @@ ul.dropdown-menu.drp-mnu li a i {
 }
 .button--saqui.button--inverted {
 	background: #fff;
-	color: #37474f;
+        color: #37474f;
 }
 .button--saqui::after {
 	content: attr(data-text);
